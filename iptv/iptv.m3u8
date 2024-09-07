@@ -7,10 +7,6 @@ http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 group-title="影视",菏泽影视
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-#EXTINF:-1 group-title="影视",CCTV-6
-http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="安徽",固镇影视频道
-http://www.guzhenm.com:7004/hls/hd-live.m3u8
 #EXTINF:-1 group-title="吉林",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="安徽",亳州农村频道
